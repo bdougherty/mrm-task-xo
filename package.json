@@ -1,0 +1,37 @@
+{
+  "name": "mrm-task-xo",
+  "version": "1.0.0",
+  "description": "Mrm task to add xo to a project.",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "xo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdougherty/mrm-task-xo.git"
+  },
+  "keywords": [
+    "mrm",
+    "mrm-task",
+    "xo"
+  ],
+  "author": "Brad Dougherty <me@brad.is>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bdougherty/mrm-task-xo/issues"
+  },
+  "homepage": "https://github.com/bdougherty/mrm-task-xo#readme",
+  "devDependencies": {
+    "eslint-config-bdougherty": "^4.1.1",
+    "xo": "^0.18.2"
+  },
+  "dependencies": {
+    "mrm-core": "^2.6.0"
+  },
+  "xo": {
+    "extends": "bdougherty"
+  }
+}
