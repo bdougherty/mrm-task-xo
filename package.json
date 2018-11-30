@@ -25,11 +25,11 @@
   },
   "homepage": "https://github.com/bdougherty/mrm-task-xo#readme",
   "devDependencies": {
-    "eslint-config-bdougherty": "^4.1.1",
-    "xo": "^0.18.2"
+    "eslint-config-bdougherty": "^5.1.1",
+    "xo": "^0.23.0"
   },
   "dependencies": {
-    "mrm-core": "^2.6.0"
+    "mrm-core": "^3.3.0"
   },
   "xo": {
     "extends": "bdougherty"
