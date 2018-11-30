@@ -1,6 +1,6 @@
 {
   "name": "mrm-task-xo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mrm task to add xo to a project.",
   "main": "index.js",
   "files": [
